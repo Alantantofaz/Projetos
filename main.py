@@ -20,3 +20,4 @@ pyautogui.moveTo()
 #tempo para executar comandos
 pyautogui.PAUSE = 1
 
+#goo
